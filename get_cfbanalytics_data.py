@@ -2,7 +2,7 @@
     Script to fetch statistics data of a particular year
     from College Football Analytics website ( www.cfbanalytics.com )
 
-    Usage : python get_cfbanalytics_data.com <year> <statistics> <outputfile> <output directory>
+    Usage : python get_cfbanalytics_data.com <year> <statistics> <outputfile> <output directory> <full path of URL config file>
     Help  : python get_cfbanalytics_data.com -h
 '''
 
