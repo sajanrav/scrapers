@@ -9,3 +9,4 @@
 | 5            | get_cfbanalytics_data.py | python get_cfbanalytics_data.py 2012 ratings cfba_2012_ratings.csv output-dir sample_config/url_config_file | cfba_2012_ratings.csv |
 | 6 	       | get_famous_quotes.py  | python get_famous_quotes.py famous_quotes.csv output-dir 	| famous_quotes.csv |
 | 7            | get_uspto_patent_data.py | python get_uspto_patent_data.py test_dir uspto_patent_list.csv uspto_patent_info.csv | uspto_patent_info.csv |
+| 8            | get_terms_from_dhatus.py | python get_terms_from_dhatus.py karmani | out_karmani.txt |
