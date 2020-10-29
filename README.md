@@ -11,3 +11,4 @@
 | 7            | get_uspto_patent_data.py | python get_uspto_patent_data.py test_dir uspto_patent_list.csv uspto_patent_info.csv | uspto_patent_info.csv |
 | 8            | get_terms_from_dhatus.py | python get_terms_from_dhatus.py karmani | out_karmani.txt |
 | 9            | get_eia_data.py | python get_eia_data.py | henry_hub_daily_gas_prices.csv |
+|10            | get_bmc_dashboard.py | python get_bmc_dashboard.py | bmc_war_room_dashboard_20201002.pdf |
